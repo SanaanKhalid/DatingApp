@@ -1,6 +1,6 @@
-# Awesome Dating App
+# Dating App
 
-Welcome to the Awesome Dating App, a modern and feature-rich dating platform designed to connect people and foster meaningful relationships. This app is built with .NET on the backend and Angular on the frontend.
+Welcome to my Dating App, a modern and feature-rich dating platform designed to connect people and foster meaningful relationships. This app is built with .NET on the backend and Angular on the front end.
 
 ## Table of Contents
 
@@ -8,16 +8,11 @@ Welcome to the Awesome Dating App, a modern and feature-rich dating platform des
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
 - User registration and authentication
-- Profile creation and customization
-- Advanced matching algorithms
 - Real-time messaging
 - Activity tracking and notifications
 - Responsive and intuitive user interface
